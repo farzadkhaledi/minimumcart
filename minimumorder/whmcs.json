@@ -1,0 +1,29 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-addons",
+    "name": "minimumcart",
+    "version": "1.0",
+    "license": "mit",
+    "category": "other",
+    "description": {
+        "name": "Minimum Cart Total",
+        "tagline": "Minimum Cart Total for WHMCS",
+        "long": "Minimum Cart Total module allows you to setup minimum required total per currency.",
+        "features": [
+            "Client Area: Minimum Cart Total module allows you to setup minimum required total per currency."
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "docs_url": "https:\/\/www.github.com\/farzadkhaledi\/minimumcart",
+        "learn_more": "https:\/\/www.github.com\/farzadkhaledi\/minimumcart"
+    },
+    "authors": [
+        {
+            "name": "Farzad Khaledi",
+            "homepage": "https:\/\/www.khaledi.website\/"
+        }
+    ]
+}
