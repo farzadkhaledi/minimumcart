@@ -7,7 +7,7 @@
 
 - Set Minimum Required Total For Orders
 - Multi currency supports
-- Working 8.x
+- Working WHMCS v8.x
 - Without any template changes
 - Working with any WHMCS templates
 
